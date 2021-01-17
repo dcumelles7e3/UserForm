@@ -4,4 +4,9 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="login">Login</string>
     <string name="register">register</string>
+    <string name="password">Password</string>
+    <string name="user_name">User Name</string>
+    <string name="donthave">Don\'t have an account?\nRegister now for free!</string>
+    <string name="forgot">I forgot my password</string>
+    <string name="welcome">Welcome to the app!</string>
 </resources>
