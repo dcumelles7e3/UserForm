@@ -7,4 +7,9 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="EditText">
+        <item name="android:layout_marginTop">20dp</item>
+        <item name="boxBackgroundColor">@color/sunColor</item>
+    </style>
+
 </resources>
